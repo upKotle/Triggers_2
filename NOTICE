@@ -1,0 +1,10 @@
+Triggers_2
+
+SVG input adaptation of https://github.com/TheSawIsTheLaw/triggers
+Original algorithm authors: TheSawIsTheLaw and mRrvz.
+
+Adaptation: SVG WaveDrom reader, automatic trigger selection, command-line
+interface, synthetic regression examples, tests, documentation, and CI.
+The seven original trigger calculation algorithms are preserved.
+
+The original LICENSE file is included verbatim.
